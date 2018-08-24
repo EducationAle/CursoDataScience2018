@@ -4,13 +4,12 @@
 
 Prof. Tiago Ferreto <tiago.ferreto@pucrs.br>
 
-## Exercícios
+## Avaliação
 
-- Assigment para submissão - https://classroom.github.com/a/5iXe7Xw1
-  - Todos os exercícios devem ser submetidos neste mesmo assignment
-  - Prazo para entrega: 7/9/2018 - 23:00
-- Exercícios
-  - BigData
-  - HDFS
-  - MapReduce
+- Exercício BigData (relatório em pdf)
+- Exercício HDFS (relatório em pdf)
+- Exercício MapReduce (zip com código-fonte Java e Python)
+- Avaliação (relatório em pdf)
+
+**Prazo para entrega: 7/9/2018 - 23:00 (enviar arquivos por e-mail para tiago.ferreto@pucrs.br com assunto "GINFRABIGDATA - Avaliação - \<NOME DO ALUNO\>")**
     
