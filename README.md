@@ -12,5 +12,6 @@ Prof. Tiago Ferreto <tiago.ferreto@pucrs.br>
 - Avaliação (relatório em pdf)
 
 **Prazo para entrega: 7/9/2018 - 23:00**
+
 **Enviar arquivos por e-mail para tiago.ferreto@pucrs.br com assunto "GINFRABIGDATA - Avaliação - \<NOME DO ALUNO\>")**
     
